@@ -1,4 +1,4 @@
-"# Snowflake UDF\'s"
+# Snowflake UDF's
 
 This repo contains a collection of Snowflake UDF's that might be useful.
 To use this repo you must have a Snowflake account. Navigate to Snowflake and [Sign Up](https://signup.snowflake.com/) for a free trial account if you don't have one.
